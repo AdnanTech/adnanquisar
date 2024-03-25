@@ -33,6 +33,7 @@ and Deep Learning Techniques", and has been an interesting journey, it involves 
 ### Fields of Expertise
 The areas of Computer Science I have relevant expertise in includes Machine Learning, Natural Language Processing, Deep Learning, Data Processing, Computational Finance, Test-Driven Development, Data Visualisation, Algorithmic Trading
 ### Languages
-I most often program using Python, C++ and Golang. I have working profciency with C++, C\#, C, Java, VBA  
-#### Technologies
+I most often program using Python, C++ and Golang. I have working profciency with C++, C\#, C, Java, VBA
+
+### Technologies
 I have used a variety of technologies and try to keep up with relevant technolgies, my current toolkit includes React, Node.js, Linux, AWS, jQuery, Latex, Git, Pentaho, MySQL, Microsoft SQL Server, Bootstrap

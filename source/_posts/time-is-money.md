@@ -1,5 +1,5 @@
 ---
-title: Junior Research Associate
+title: Time is Money
 category: Research
 tags: [Computational Finance, Python]
 date: 2023-05-01
