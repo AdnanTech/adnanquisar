@@ -5,13 +5,16 @@ title: Resume
 ## Education
 
 ### University of Sussex, (Sep 2020 – May 2024)
-I'm currently on track to recieve a BSc in Computer Science and Artificial Intelligence with First-Class Honours. My time at Sussex has been nothing short of extraordinary, the culture at Sussex has allowed me to cultivate a great skillset, gaining both technical and non-technical skills. During my undergraduate degree, lecturers have been very open to having conversations regarding my career and my research interests, which played a great part in laying the foundations for where I want my future career to go.
+I have graduated with a BSc in Computer Science and Artificial Intelligence with First-Class Honours. My time at Sussex has been nothing short of extraordinary, the culture at Sussex has allowed me to cultivate a great skillset, gaining both technical and non-technical skills. During my undergraduate degree, lecturers have been very open to having conversations regarding my career and my research interests, which played a great part in laying the foundations for where I want my future career to go.
 
 I've taken part in multiple extracurriculars, having rebuilt the Computer Science Society, HackSussex website from the ground up in React, to becoming the **Vice President** responsible for leading a team of 20 students, managing new workflows and honing leadership skills. I also presented the [annual coding competition](https://www.youtube.com/watch?v=yPifHEfu4Qs) at Sussex, and assisted in organising the HackSussex GameJam and [HackSussex's biggest hackathon](https://www.youtube.com/watch?v=gmKBSb7kbTY) to date, with over 200 attendees! I have been a **Teaching Assistant** for artificial intelligence related modules such as Natural Language Engineering, Computer Vision and Acquired Intelligence & Adaptive Behaviour. I've also been a **Peer Assisted Learning (PAL) Tutor**, working with a team of 15 to host programming support workshops, organise talks on growing a career within the tech space and facilitate weekly drop-in sessions to assist students in debugging code.
 
 My Bachelor’s Thesis is "Post-Inventory Announcement Forecasting in the Crude Oil Market with Machine Learning", and has been an interesting journey, it involves taking the U.S. Crude Oil Inventories weekly announcement and forecasting both the inventory value itself as well as the market movement proceeding the event using a neural network that takes multiple features including natural language such as breaking financial news headlines into account to improve it's prediciton.
 
 ## Career
+
+### Software Engineer, Macquarie, (Jul 2024 – Present)
+Joined the Corporate Operations Group Division Graduate program.
 
 ### Junior Research Associate, University of Sussex, (May 2023 – Sep 2023)
 During the Summer of 2023, I embarked on a research journey to find a correlation between the semantics of breaking financial news headlines and market movement across the world. Some of the key learning points from this project was that retrieving financial data is difficult, as it is often behind a paywall. This makes your models susceptible to having poor performance as garbage in tends to be garbage out. Through this project I gained a lot of skills related to data engineering, computational finance and machine learning. I used pandas for data engineering, LangChain to interact with my models and storing time series in an SQL database, and word embeddings in a vector database.
