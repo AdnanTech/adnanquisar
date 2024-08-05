@@ -10,7 +10,7 @@ In July of 2024, I spent a whole month in the City of Angels, also known as Los 
 # The Good
 Let's start off with the good, the American Dream if you will.
 
-![A packed day in summer at Santa Monica beach, California](../images/santa-monica-beach.jpg)
+![A packed day in summer at Santa Monica beach, California](../images/post-images/santa-monica-beach.jpg)
 
 ## Cuisines
 The obvious one, food, there is no shortage of it, it's absurd. American portion sizes being bigger are real, and scary. A combination of the lack of walkability, diversity of food options and portion sizes is a recipe for gluttony. However, you quickly learn that one meal is the equivalent of at least two if saved for leftovers, this didn't always happen as your eyes can eat more than your stomach at times, especially when presented with some of your favourite foods! You can also burn off your calories by walking around the theme parks or hiking up to the Hollywood sign!
@@ -20,9 +20,13 @@ The obvious one, food, there is no shortage of it, it's absurd. American portion
 As for selection, I'd go with fried chicken to be my winner, more specifically, Korean fried chicken. As for the losers, well, it's difficult to find food and drink that doesn't taste good in LA to be honest. I mean, even the bubble tea tasted ten times nicer. I had an epiphany that it's because of the sugar tax we have in the UK, I didn't even know you could fit 900 calories and an ice cream scoop into a bubble tea drink.
 
 ## Activities
-My second favourite thing about LA other than enjoying the various cuisines, was the activities. As with food, activities to do whilst on the West Coast of North America are endless. During the month, some of the activities I did were: Shopping at outlets and malls, Beach trip, Japan-Town, Korea-Town, Watched a Dodgers Baseball Game, attended Anime Expo 2024, rapped Central Cee at Karaoke, went to an Arcade, strolled down Santa Monica Pier, Hiked close-ish to the Hollywood sign, Watched Princess Mononoke at an AMC, Escaped an Escape Room and visited the Getty. The list goes on. As a tourist, I wondered what a concrete jungle had to offer, as London is one too. However, I was blown away at the sheer amount of options the city had to offer, there's really something for everyone.
+My second favourite thing about LA other than enjoying the various cuisines, was the activities. As with food, activities to do whilst on the West Coast of North America are endless. During the month, some of the activities I did were: Shopping at outlets and malls, Beach trip, Japan-Town, Korea-Town, Watched a Dodgers Baseball Game, attended Anime Expo 2024, rapped Central Cee at Karaoke, went to an Arcade, strolled down Santa Monica Pier, Hiked close-ish to the Hollywood sign, Watched Princess Mononoke at an AMC, Escaped an Escape Room and visited the Getty. The list goes on.
 
 ![Los Angeles Dodgers vs Arizona Diamondbacks, Shohei Ohtani to bat.](../images/post-images/dodgers-ohtani-baseball.jpg)
+
+As a tourist, I wondered what a concrete jungle had to offer, as London is one too. However, I was blown away at the sheer amount of options the city had to offer, there's really something for everyone.
+
+![Korean Bell Tower, California.](../images/post-images/korean-bell-tower.png)
 
 ## Attractions
 Attractions felt like a wonderland, and also part of LA culture. Growing up in the UK it was expected that you were supposed to "outgrow" Disney movies and stop watching them, so when I saw adults with Cars backpacks and mickey mouse ears I was pleasantly surprised. I went on 12 rides in one day, thanks to the meticulous planning of our host, and I immersed myself in the different universes the park had to offer, I can now confidently say I see the appeal of it all. It really brings back memories and I caught a brief break from the business of a life with responsibilities and work.
