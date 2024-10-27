@@ -1,7 +1,7 @@
 ---
 title: Resume
 ---
-### [Download Professional Resume](files/Adnan_Quisar_Resume.pdf)
+<!-- ### [Download Professional Resume](files/Adnan_Quisar_Resume.pdf) -->
 ## Education
 
 ### University of Sussex, (Sep 2020 – May 2024)
