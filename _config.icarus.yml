@@ -231,9 +231,9 @@ widgets:
         # Author name
         author: Adnan Quisar
         # Author title
-        author_title: CS Student @ University of Sussex
+        author_title: Software Engineer @ Macquarie Group
         # Author's current location
-        location: Brighton & Hove, UK
+        location: London, United Kingdom
         # URL or path to the avatar image
         avatar: /images/adnan.jpg
         # Whether show the rounded avatar image
