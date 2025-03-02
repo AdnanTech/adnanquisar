@@ -4,7 +4,7 @@ category: Life
 tags: [Experiences]
 date: 2025-03-02
 ---
-Originally a draft named 25 rules for 25, I almost didn't post this, and instead deleted it. I’ve renamed this post to 25 things I’d tell myself 10 years ago, deciding to put it out there to help anyone that felt as lost as I did navigating my early adult life.
+Originally a draft named 25 rules for 25, for my 25th birthday, I almost didn't post this and instead deleted it. I’ve renamed this post to 25 things I’d tell myself 10 years ago, deciding to put it out there to help anyone that felt as lost as I did navigating my early adult life.
 
 # 1. Aim for the stars, land on the moon
 You have to believe your ideas fully, because optimism and having faith in yourself can often get you further than not believing in yourself ever will. In the pursuit of greatness, you have to aim for the stars with complete trust in yourself, and harness enough delusional optimism to be misunderstood by others.
@@ -14,7 +14,7 @@ When I was 23, I proposed my research idea for a summer project using this quote
 # 2. Time is money, and money is time
 Time is the most important resource we all own. If you’re like me and you’re employed, you are working for what you are willing to paid, trading your time for money. This is important to understand because it reveals the scope of money further, that it’s a function rather than a resource. There are two things you need to understand when it comes to money.
 
-You have to understand **what money be a function** for, you can trade your money back for time, you can trade your money for energy (hiring, healthy food) and money for fun (video games, eating out, movies at the cinema). These are just some ideas around what money can be used as a function for, but the possibilities are virtually endless.
+You have to understand **what money be a function for**, you can trade your money back for time, you can trade your money for energy (hiring, healthy food) and money for fun (video games, eating out, movies at the cinema). These are just some ideas around what money can be used as a function for, but the possibilities are virtually endless.
 
 The second thing you need to understand is that you have to **respect money and be indifferent towards it**. Money does not care who you are, so you have to remove all emotional barriers to money if possible. This means understanding what it can and can’t buy you. Be aware of what money is, it’s function, and be indifferent to the amount of money, as it’s just a function. Money does not care if you are using the money for malicious activity, being greedy or gambling it away, it’s just the medium currency that is being used for the activity. This can be flipped on it’s head, you can learn to positively be indifferent to money, and use it for good things to support yourself and your family.
 
@@ -59,10 +59,10 @@ They make up a lot of day to day living, and have a butterfly effect on everythi
 It’s cool to be healthy, healthy food doesn’t have to be salad, salads can taste nice, your tomorrow self will be much fitter and energised with a clean diet.
 
 # 13. Learn to fail gracefully
-If you’re human, you will fail at times. Learning to take this on the chin, and understand what went wrong with no pride, is how you fail gracefully and increase chances of success the next time. I’ve failed more than I’ve succeeded, my ability to bounce back is the reason I’ve achieved great things.
+If you’re human, you will fail at times. Learning to take this on the chin, and understand what went wrong with no pride is how you fail gracefully and increase chances of success the next time. I’ve failed more than I’ve succeeded, my ability to bounce back is the reason I’ve achieved great things.
 
 # 14. Take on responsibility, to learn to lead
-Interpersonal skills are valuable and heard to get, in both a leader and follower position. Getting leader experience is much harder than being a follower. To get more leader experience it tends to come from taking on responsibility, opt-in for more public speaking early on to improve your confidence and build life skills.
+Interpersonal skills are valuable and heard to get, in both a leader and follower position. Getting leader experience is much harder than being a follower. To get more leader experience it tends to come from taking on responsibility, opt-in for more public speaking early on to improve your confidence and build life skills, it's invaluable.
 
 # 15. Assets and Liabilities
 Liabilities are things you owe, assets are things you own. Sit down and define them properly. Do you pay a monthly phone bill? That’s a liability, a required one. Did you finance your car? Try to buy it with cash, the less liabilities, the better. What assets would you like to own? How many liabilities can you afford to not take on?
@@ -87,7 +87,7 @@ Travelling gives you perspective. Different countries have different systems, cu
 You have to fight bullshit and bureaucracy, always, but with caution. It can be unwise and crass to pick certain battles, do your best to minimise friction and build a better system for everyone around you.
 
 # 21. Have goals
-Every decade, every year, every quarter, every month, every week, every day. Try to make little progress to each goal in each category by breaking down complex, long term goals into smaller, more manageable ones. 1% rule leads to compounding growth.
+Every decade, every year, every quarter, every month, every week, every day. Try to make little progress to each goal in each category by breaking down complex, long term goals into smaller, more manageable ones. The 1% rule leads to compounding growth.
 
 # 22. Life changing money isn't an amount
 it's situational to your circumstances. Warren Buffet is one of the wealthiest men on earth, but you’d be crazy to swap positions with him as he is short on time, he’s 94. Even with all his billions, he’d likely trade it back for time. To a young man, a small sum of cash could change the trajectory of their life for the better. To somebody in debt, they may need a large sum of cash to change the trajectory of their life.
@@ -95,7 +95,7 @@ it's situational to your circumstances. Warren Buffet is one of the wealthiest m
 I’d tell my younger self this because I’d always put a value on it, and the more I think about putting a value on a life changing amount of money the less it makes sense. A million quid might change your life, but it won’t mean much if you waste it all on super cars within a week.
 
 # 23. Create value for others
-I learnt to love building things that created value, often for myself. If I could do it all again I’d still try to build things that make my life easier, but learn that real value is created when others find your creations useful.
+I learned to love building things that created value, but it would often be for myself. If I could do it all again I’d still try to build things that make my life easier, but learn that real value is created when others find your creations useful.
 
 # 24. Uncertainty as a catalyst
 Risk is in the category of uncertainty and they relate closely. Uncertainty is a scale, meaning it’s not a binary state, and being uncertain has been shown to increase curiosity, but in-turn decreases happiness. However, uncertainty is also an opportunity for growth, it challenges you to question your assumptions and seek alternative answers.
