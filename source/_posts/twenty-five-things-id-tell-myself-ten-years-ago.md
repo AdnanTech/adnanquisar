@@ -14,9 +14,9 @@ When I was 23, I proposed my research idea for a summer project using this quote
 # 2. Time is money, and money is time
 Time is the most important resource we all own. If you’re like me and you’re employed, you are working for what you are willing to paid, trading your time for money. This is important to understand because it reveals the scope of money further, that it’s a function rather than a resource. There are two things you need to understand when it comes to money.
 
-You have to understand **what money be a function for**, you can trade your money back for time, you can trade your money for energy (hiring, healthy food) and money for fun (video games, eating out, movies at the cinema). These are just some ideas around what money can be used as a function for, but the possibilities are virtually endless.
+You have to understand **what money is a function for**, you can trade your money back for time, you can trade your money for energy (hiring, healthy food) and money for fun (video games, eating out, movies at the cinema). These are just some ideas around what money can be used as a function for, but the possibilities are virtually endless.
 
-The second thing you need to understand is that you have to **respect money and be indifferent towards it**. Money does not care who you are, so you have to remove all emotional barriers to money if possible. This means understanding what it can and can’t buy you. Be aware of what money is, it’s function, and be indifferent to the amount of money, as it’s just a function. Money does not care if you are using the money for malicious activity, being greedy or gambling it away, it’s just the medium currency that is being used for the activity. This can be flipped on it’s head, you can learn to positively be indifferent to money, and use it for good things to support yourself and your family.
+The second thing you need to understand is that you have to **respect money and be indifferent towards it**. Money does not care who you are, so you have to remove all emotional barriers to money if possible. This means understanding what it can and can’t buy you. Be aware of what money is, its function, and be indifferent to the amount of money, as it’s just a function. Money does not care if you are using the money for malicious activity, being greedy or gambling it away, it is just the medium currency that is being used for the activity. This can be flipped on it’s head, you can learn to positively be indifferent to money, and use it for good things to support yourself and your family.
 
 # 3. Love deeply
 Love the people around you and the work you do. Try to build a small amount of meaningful connections rather than a lot of shallow ones. Appreciate the support network you have and try to love deeply by contributing to your loved one’s support systems if you are in a position to do so.
@@ -43,14 +43,14 @@ The best thinking is often done offline.
 The United Kingdom gets about 3 months of sun a year, June, July and August. Enjoy them whilst they last.
 
 # 9. Take risks
-Risk is subjective and needs to be evaluated each time. Even on both sides of the same deal, both parties may have a different amount of risk they are taking on. The successful risk takers understand this concept and evaluate both their risk and counter party risk when taking a risk. Figure out what defines your risk.
+Risk is subjective and needs to be evaluated each time. Even on both sides of the same deal, both parties may have a different amount of risk they are taking on. The successful risk takers understand this concept and evaluate both their risk and counterparty risk when taking a risk. Figure out what defines your risk.
 
 To take this one step further, somebody that has a family and a mortgage to account for has a much larger risk profile than an 18 year old living at home. Youth is a super power for risk, as liabilities are a hindrance to risk, which you often get more of as you age.
 
-Measure opportunity cost, what do you lose by taking this risk? A textbook example of this is a Masters degree. You pay a substantial sum, for a chance to get a better job that you may not have been able to get with an undergraduate degree. Is this worth the trade-off? There are many variables.
+Measure opportunity cost, what do you lose by taking this risk? A textbook example of this is a Master's degree. You pay a substantial sum, for a chance to get a better job that you may not have been able to get with an undergraduate degree. Is this worth the trade-off? There are many variables.
 
 # 10. Be malleable, but stand firm.
-Be disciplined, but remain open. Adaptability and initiative are two key skills you’ll need for life. Initiative in a corporate environment if often met with bureaucracy and push back. Try to fight the bullshit but pick your battles wisely, sometimes they aren’t worth it.
+Be disciplined, but remain open. Adaptability and initiative are two key skills you’ll need for life. Initiative in a corporate environment is often met with bureaucracy and push back. Try to fight the bullshit but pick your battles wisely, sometimes they aren’t worth it.
 
 # 11. Decisions and Sacrifice are everything
 They make up a lot of day to day living, and have a butterfly effect on everything else.
@@ -62,7 +62,7 @@ It’s cool to be healthy, healthy food doesn’t have to be salad, salads can t
 If you’re human, you will fail at times. Learning to take this on the chin, and understand what went wrong with no pride is how you fail gracefully and increase chances of success the next time. I’ve failed more than I’ve succeeded, my ability to bounce back is the reason I’ve achieved great things.
 
 # 14. Take on responsibility, to learn to lead
-Interpersonal skills are valuable and heard to get, in both a leader and follower position. Getting leader experience is much harder than being a follower. To get more leader experience it tends to come from taking on responsibility, opt-in for more public speaking early on to improve your confidence and build life skills, it's invaluable.
+Interpersonal skills are valuable and hard to get, in both a leader and follower position. Getting leader experience is much harder than being a follower. To get more leader experience it tends to come from taking on responsibility, opt-in for more public speaking early on to improve your confidence and build life skills, it's invaluable.
 
 # 15. Assets and Liabilities
 Liabilities are things you owe, assets are things you own. Sit down and define them properly. Do you pay a monthly phone bill? That’s a liability, a required one. Did you finance your car? Try to buy it with cash, the less liabilities, the better. What assets would you like to own? How many liabilities can you afford to not take on?
@@ -73,7 +73,7 @@ The most important asset you will ever own is freedom.
 You’ll always be worth more. Failing an exam might feel like a big issue today, but you will forget about it in a week, if not a month. There is an immense pressure for the youth to perform in academia, but life is about learning and not overfitting for grades. 
 
 # 17. Manage your infrastructure
-This leans on some of the money concepts we’ve talked about. Owning your infrastructure whilst your young means being in control if your education and free time. You’ll have to attend school and study, but try to manage your own time outside of that. Your body, mind, money and brain all need to be managed well. When you’re older, this usually means managing your money and debt.
+This leans on some of the money concepts we’ve talked about. Owning your infrastructure whilst you're young means being in control if your education and free time. You’ll have to attend school and study, but try to manage your own time outside of that. Your body, mind, money and brain all need to be managed well. When you’re older, this usually means managing your money and debt.
 
 Think about what is outsourced in your life and ask yourself if you can insource it instead, as this allows you to control it.
 
@@ -92,13 +92,13 @@ Every decade, every year, every quarter, every month, every week, every day. Try
 # 22. Life changing money isn't an amount
 it's situational to your circumstances. Warren Buffet is one of the wealthiest men on earth, but you’d be crazy to swap positions with him as he is short on time, he’s 94. Even with all his billions, he’d likely trade it back for time. To a young man, a small sum of cash could change the trajectory of their life for the better. To somebody in debt, they may need a large sum of cash to change the trajectory of their life.
 
-I’d tell my younger self this because I’d always put a value on it, and the more I think about putting a value on a life changing amount of money the less it makes sense. A million quid might change your life, but it won’t mean much if you waste it all on super cars within a week.
+I’d tell my younger self this because I’d always put a value on it, and the more I think about putting a value on a life-changing amount of money the less it makes sense. A million quid might change your life, but it won’t mean much if you waste it all on supercars within a week.
 
 # 23. Create value for others
 I learned to love building things that created value, but it would often be for myself. If I could do it all again I’d still try to build things that make my life easier, but learn that real value is created when others find your creations useful.
 
 # 24. Uncertainty as a catalyst
-Risk is in the category of uncertainty and they relate closely. Uncertainty is a scale, meaning it’s not a binary state, and being uncertain has been shown to increase curiosity, but in-turn decreases happiness. However, uncertainty is also an opportunity for growth, it challenges you to question your assumptions and seek alternative answers.
+Risk is in the category of uncertainty and they relate closely. Uncertainty is a scale, meaning it’s not a binary state, and being uncertain has been shown to increase curiosity, but in turn decreases happiness. However, uncertainty is also an opportunity for growth, it challenges you to question your assumptions and seek alternative answers.
 
 By being aware of how much uncertainty you have, you can be aware of why you feel the way you feel. When you start a new project there are so many uncertainties that might lead to dread. So when you become curious you start to find the way, and finding the way leads to the exchange of uncertainty for happiness and new skills.
 
