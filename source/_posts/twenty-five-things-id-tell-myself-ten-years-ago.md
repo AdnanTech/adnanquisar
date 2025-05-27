@@ -36,8 +36,8 @@ That’s the beauty of life, everyone is so busy doing their own things that the
 # 6. Focus is a muscle
 I've seen so many great people lose touch with the world due to a lack of focus. Often stemming from an unhealthy relationship with social media or doomscrolling, their focus muscles have diminished over time, and thereby their dreams. Respect long-form content and read books to build back your focus. Make social media interactions meaningful. Focus for long periods of time.
 
-# 7. Learn to disconnect
-The best thinking is often done offline.
+# 7. Learn to Disconnect and Manage Attention
+The best thinking is often done offline. Social media can take away a lot of your time, and shorten your attention span. We live in a world where the commodity is our attention, be mindful of this and engage in things that do not profit from monitising it.
 
 # 8. Summer is the best
 The United Kingdom gets about 3 months of sun a year, June, July and August. Enjoy them whilst they last.
@@ -49,17 +49,17 @@ To take this one step further, somebody that has a family and a mortgage to acco
 
 Measure opportunity cost, what do you lose by taking this risk? A textbook example of this is a Master's degree. You pay a substantial sum, for a chance to get a better job that you may not have been able to get with an undergraduate degree. Is this worth the trade-off? There are many variables.
 
-# 10. Be malleable, but stand firm.
-Be disciplined, but remain open. Adaptability and initiative are two key skills you’ll need for life. Initiative in a corporate environment is often met with bureaucracy and push back. Try to fight the bullshit but pick your battles wisely, sometimes they aren’t worth it.
+# 10. The most important Relationship
+Is with yourself, investments into your future self has the highest return out of all investments.
 
 # 11. Decisions and Sacrifice are everything
-They make up a lot of day to day living, and have a butterfly effect on everything else.
+They make up a lot of day to day living, and have a butterfly effect on everything else. Sacrifices can be hard to make, sleep and relationships being the hardest.
 
 # 12. Health is part of wealth
 It’s cool to be healthy, healthy food doesn’t have to be salad, salads can taste nice, your tomorrow self will be much fitter and energised with a clean diet.
 
 # 13. Learn to fail gracefully
-If you’re human, you will fail at times. Learning to take this on the chin, and understand what went wrong with no pride is how you fail gracefully and increase chances of success the next time. I’ve failed more than I’ve succeeded, my ability to bounce back is the reason I’ve achieved great things.
+If you’re human you will fail at times. Learning to take this on the chin and understand what went wrong without having an ego is how you fail gracefully and increase chances of success the next time. I’ve failed more than I’ve succeeded, my ability to bounce back after failing is the reason I’ve achieved successful things.
 
 # 14. Take on responsibility, to learn to lead
 Interpersonal skills are valuable and hard to get, in both a leader and follower position. Getting leader experience is much harder than being a follower. To get more leader experience it tends to come from taking on responsibility, opt-in for more public speaking early on to improve your confidence and build life skills, it's invaluable.
@@ -70,7 +70,7 @@ Liabilities are things you owe, assets are things you own. Sit down and define t
 The most important asset you will ever own is freedom.
 
 # 16. Your worth is not tied to your achievements
-You’ll always be worth more. Failing an exam might feel like a big issue today, but you will forget about it in a week, if not a month. There is an immense pressure for the youth to perform in academia, but life is about learning and not overfitting for grades. 
+You’ll always be worth more than what you achieve. Failing an exam might feel like a big issue today, but you will forget about it in a week, if not a month. There is an immense pressure for the youth to perform in academia, but life is about learning, failing and not overfitting for grades.
 
 # 17. Manage your infrastructure
 This leans on some of the money concepts we’ve talked about. Owning your infrastructure whilst you're young means being in control if your education and free time. You’ll have to attend school and study, but try to manage your own time outside of that. Your body, mind, money and brain all need to be managed well. When you’re older, this usually means managing your money and debt.
@@ -78,7 +78,7 @@ This leans on some of the money concepts we’ve talked about. Owning your infra
 Think about what is outsourced in your life and ask yourself if you can insource it instead, as this allows you to control it.
 
 # 18. Smile more & forgive yourself
-Find ways to be happy in unhappy times and places. Forgive yourself more, it’s your first time living life.
+Find ways to be happy in unhappy times and places. Forgive yourself more, it’s your first time living life, you've had no practice.
 
 # 19. Travel if you can
 Travelling gives you perspective. Different countries have different systems, cultures and customs. It’s arguably the best way to actually see and compare different systems to your own country. Countries are massive systems with lots of depth that have to be experienced, not read from a textbook.
@@ -102,11 +102,11 @@ Risk is in the category of uncertainty and they relate closely. Uncertainty is a
 
 By being aware of how much uncertainty you have, you can be aware of why you feel the way you feel. When you start a new project there are so many uncertainties that might lead to dread. So when you become curious you start to find the way, and finding the way leads to the exchange of uncertainty for happiness and new skills.
 
-Essentially, curiosity becomes your compass for learning, and when we are young we are much more curious, so use this to your advantage and be curious. Read more and learn voraciously.
+Essentially, curiosity becomes your compass for learning, and when we are young we are much more curious, so use this to your advantage and be curious, meaning you should read more and learn voraciously.
 
 # 25. Own your story
-Your quirks and flaws become your identity. Own them with pride, you’re the first and only you in all of humanity. Once I accepted this concept and embraced it, my confidence and a young person shot up. I’m not perfect, I’m me.
+Your quirks and flaws become your identity. Own them with pride, you’re the first and only you in all of humanity. Once I accepted this concept and embraced it my confidence as a young person shot up. I’m not perfect, I’m me, and that's enough for me to be.
 
-I’m now a young professional in London in one of the largest banks in the world. When I was younger, I had to learn a lot of things that I wish someone would have told me earlier.
+I’m now a young professional in London at one of the largest banks in the world. When I was younger, I had to learn a lot of things that I wish someone would have told me earlier.
 
-I’ve been lucky enough to meet great people, have amazing experiences, and build great things. If you’ve found this post helpful, I’d suggest documenting your story too. Aim for the stars, land on the moon.
+I’ve been lucky enough to meet great people, have amazing experiences, and build great things. If you’ve found this post helpful, I’d suggest documenting your story too. Finally, Aim for the stars, land on the moon.
