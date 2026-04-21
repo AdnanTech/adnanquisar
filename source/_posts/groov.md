@@ -5,7 +5,7 @@ tags: [Entrepreneurship, Figma, University, React]
 date: 2023-08-01
 ---
 
-After I completed my JRA project, [Time is Money](https://adnanquisar.com/time-is-money/), I decided to feed my entrepreneurial drive during the rest of summer and worked with [Sussex's Entreprenurship Team](https://student.sussex.ac.uk/careers/entrepreneurship/funding) to spend 100 hours with a founding duo fresh out of their incubation program. The idea of Groov was straightforward, a modern day jukebox app built to drive social interactions with music, users would pay to play music in the current venue they are at to share the music they love, with additional partnerships with commercial music providers to drive revenue.
+After I completed my JRA project, [Time is Money](https://adnanquisar.com/time-is-money/), I decided to feed my entrepreneurial drive during the rest of summer and worked with [Sussex's Entrepreneurship Team](https://student.sussex.ac.uk/careers/entrepreneurship/funding) to spend 100 hours with a founding duo fresh out of their incubation program. The idea of Groov was straightforward, a modern day jukebox app built to drive social interactions with music, users would pay to play music in the current venue they are at to share the music they love, with additional partnerships with commercial music providers to drive revenue.
 
 ![Groov Logo and a Tagline as displayed in the Groov Pitchdeck.](../images/post-images/groov-logo.png)
 
